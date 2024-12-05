@@ -9,6 +9,65 @@ export default function Page() {
           This page is added to test git pushing to multiple code collaboration
           platforms.
         </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi
+          nec enim ullamcorper scelerisque non et tellus. Cras ut tortor vel
+          felis posuere luctus. Integer blandit ligula orci, eu mollis erat
+          feugiat id. Suspendisse rutrum, leo eget tincidunt varius, turpis
+          mauris ullamcorper lacus, tincidunt condimentum massa massa quis quam.
+          Nam in consequat lorem. Aliquam erat volutpat. Ut nec est in magna
+          congue cursus. Nunc varius risus a volutpat congue.
+        </p>
+        <p>
+          Suspendisse eleifend, libero sit amet condimentum mattis, mauris
+          tellus iaculis eros, nec maximus lorem diam eget urna. Donec odio
+          odio, egestas lacinia augue vel, consequat tempus orci. Mauris ut
+          mauris pellentesque, dignissim mi eget, fermentum libero. Nunc varius,
+          nisi id fringilla viverra, erat sapien faucibus dui, eu tempor dui leo
+          sit amet risus. Phasellus porta arcu non metus elementum placerat.
+          Nulla gravida ornare viverra. Fusce finibus ligula vel commodo
+          iaculis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Integer nec interdum augue. Aliquam vitae dignissim ex, in
+          sollicitudin neque. Donec vehicula diam ac gravida tincidunt. Nunc
+          tincidunt tristique enim, non volutpat eros fermentum quis. Curabitur
+          sagittis magna sed urna efficitur, id accumsan nisi blandit. Morbi
+          vitae semper dolor, vitae pellentesque nisi. Aliquam erat volutpat.
+        </p>
+        <p>
+          Praesent elementum eros vitae tellus interdum, eget varius sem
+          viverra. Morbi imperdiet vestibulum libero in vestibulum. Vestibulum
+          vitae lorem vel nibh dapibus consectetur. Maecenas finibus vel justo
+          vulputate accumsan. Nulla dapibus mi sed velit blandit posuere. Sed
+          purus erat, tempor quis mi ut, gravida egestas orci. Cras id urna
+          pellentesque, pulvinar ipsum bibendum, aliquam lorem. Mauris eget urna
+          in quam consequat elementum. Nam sit amet urna sed libero egestas
+          convallis.
+        </p>
+        <p>
+          Aliquam vestibulum mattis auctor. Praesent nec eros ex. Nulla feugiat,
+          sem at posuere imperdiet, odio massa mattis lorem, nec gravida ligula
+          justo eu turpis. Donec scelerisque purus quis enim viverra pretium.
+          Pellentesque habitant morbi tristique senectus et netus et malesuada
+          fames ac turpis egestas. Morbi vitae ullamcorper quam. Nulla euismod,
+          lorem vel dictum vulputate, odio turpis auctor justo, id mattis odio
+          enim quis libero. Nullam maximus turpis vitae nunc pulvinar, ut
+          pharetra tellus lobortis.
+        </p>
+        <p>
+          Phasellus molestie rhoncus arcu quis semper. Duis a dui quis lorem
+          rutrum gravida sit amet sit amet ipsum. Mauris scelerisque eleifend
+          urna, id faucibus leo fringilla ac. Vestibulum viverra faucibus
+          ullamcorper. Sed sit amet enim lectus. Praesent fermentum massa sed
+          mattis dapibus. Mauris ultricies, nibh vitae scelerisque suscipit, mi
+          nisi finibus lorem, sed fermentum ipsum massa pretium lorem. Nullam
+          elementum semper arcu, ac porttitor sapien aliquam vel. Duis vel mi
+          lectus. Vivamus quis eleifend tortor, at sollicitudin eros.
+          Suspendisse mollis arcu et velit eleifend, porttitor hendrerit nunc
+          pretium. Sed mollis velit nisi, in ultricies erat ultricies ut.
+          Aliquam ullamcorper, lacus consequat sollicitudin vehicula, quam
+          turpis laoreet leo, vitae fermentum nunc felis non dui. Nulla nisi
+          est, pulvinar eget tellus a, posuere tempor odio.
+        </p>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <Link
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
@@ -18,6 +77,7 @@ export default function Page() {
             ← Go back
           </Link>
         </div>
+        <p>Some disclaimer text.</p>
       </main>
     </div>
   );

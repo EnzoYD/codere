@@ -43,6 +43,7 @@ export default function Page() {
           in quam consequat elementum. Nam sit amet urna sed libero egestas
           convallis.
         </p>
+        <h2>Lorem ipsum heading</h2>
         <p>
           Aliquam vestibulum mattis auctor. Praesent nec eros ex. Nulla feugiat,
           sem at posuere imperdiet, odio massa mattis lorem, nec gravida ligula

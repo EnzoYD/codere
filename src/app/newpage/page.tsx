@@ -18,21 +18,6 @@ export default function Page() {
           congue cursus. Nunc varius risus a congue.
         </p>
         <p>
-          Suspendisse eleifend, libero sit amet condimentum mattis, mauris
-          tellus iaculis eros, nec maximus lorem diam eget urna. Donec odio
-          odio, egestas lacinia augue vel, consequat tempus orci. Mauris ut
-          mauris pellentesque, dignissim mi eget, fermentum libero. Nunc varius,
-          nisi id fringilla viverra, erat sapien faucibus dui, eu tempor dui leo
-          sit amet risus. Phasellus porta arcu non metus elementum placerat.
-          Nulla gravida ornare viverra. Fusce finibus ligula vel commodo
-          iaculis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-          Integer nec interdum augue. Aliquam vitae dignissim ex, in
-          sollicitudin neque. Donec vehicula diam ac gravida tincidunt. Nunc
-          tincidunt tristique enim, non volutpat eros fermentum quis. Curabitur
-          sagittis magna sed urna efficitur, id accumsan nisi blandit. Morbi
-          vitae semper dolor, vitae pellentesque nisi. Aliquam erat volutpat.
-        </p>
-        <p>
           Praesent elementum eros vitae tellus interdum, eget varius sem
           viverra. Morbi imperdiet vestibulum libero in vestibulum. Vestibulum
           vitae lorem vel nibh dapibus consectetur. Maecenas finibus vel justo
@@ -48,10 +33,7 @@ export default function Page() {
           sem at posuere imperdiet, odio massa mattis lorem, nec gravida ligula
           justo eu turpis. Donec scelerisque purus quis enim viverra pretium.
           Pellentesque habitant morbi tristique senectus et netus et malesuada
-          fames ac turpis egestas. Morbi vitae ullamcorper quam. Nulla euismod,
-          lorem vel dictum vulputate, odio turpis auctor justo, id mattis odio
-          enim quis libero. Nullam maximus turpis vitae nunc pulvinar, ut
-          pharetra tellus lobortis.
+          fames ac turpis egestas.
         </p>
         <p>
           Phasellus molestie rhoncus arcu quis semper. Duis a dui quis lorem

@@ -11,12 +11,11 @@ export default function Page() {
         </p>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi
-          nec enim ullamcorper scelerisque non et tellus. Cras ut tortor vel
-          felis posuere luctus. Integer blandit ligula orci, eu mollis erat
-          feugiat id. Suspendisse rutrum, leo eget tincidunt varius, turpis
-          mauris ullamcorper lacus, tincidunt condimentum massa massa quis quam.
-          Nam in consequat lorem. Aliquam erat volutpat. Ut nec est in magna
-          congue cursus. Nunc varius risus a volutpat congue.
+          nec enim ullamcorper scelerisque non et tellus. Cras ut vel
+          felis posuere luctus. blandit ligula orci, eu mollis erat
+          feugiat id. Suspendisse, leo eget tincidunt varius, turpis
+          mauris ullamcorper lacus, tincidunt massa massa quis quam. in consequat lorem. Aliquam erat volutpat. Ut nec est in magna conturex
+          congue cursus. Nunc varius risus a congue.
         </p>
         <p>
           Suspendisse eleifend, libero sit amet condimentum mattis, mauris

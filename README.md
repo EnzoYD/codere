@@ -1,3 +1,9 @@
+# This is a mock project
+
+This mock project serves as a sandbox for testing code collaboration. The included code and files are non-functional and purely for demonstration purposes. The mock content begins below the horizontal line.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

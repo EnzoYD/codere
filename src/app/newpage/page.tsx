@@ -22,23 +22,6 @@ export default function Page() {
           viverra. Morbi imperdiet vestibulum libero in vestibulum. Vestibulum
           vitae lorem vel nibh dapibus consectetur. Maecenas finibus vel justo
           vulputate accumsan. Nulla dapibus mi sed velit blandit posuere. Sed
-          purus erat, tempor quis mi ut, gravida egestas orci. Cras id urna
-          pellentesque, pulvinar ipsum bibendum, aliquam lorem. Mauris eget urna
-          in quam consequat elementum. Nam sit amet urna sed libero egestas
-          convallis.
-        </p>
-        <h2>Lorem ipsum heading</h2>
-        <p>
-          Aliquam vestibulum mattis auctor. Praesent nec eros ex. Nulla feugiat,
-          sem at posuere imperdiet, odio massa mattis lorem, nec gravida ligula
-          justo eu turpis. Donec scelerisque purus quis enim viverra pretium.
-          Pellentesque habitant morbi tristique senectus et netus et malesuada
-          fames ac turpis egestas.
-        </p>
-        <p>
-          Phasellus molestie rhoncus arcu quis semper. Duis a dui quis lorem
-          rutrum gravida sit amet sit amet ipsum. Mauris scelerisque eleifend
-          urna, id faucibus leo fringilla ac. Vestibulum viverra faucibus
           ullamcorper. Sed sit amet enim lectus. Praesent fermentum massa sed
           mattis dapibus. Mauris ultricies, nibh vitae scelerisque suscipit, mi
           nisi finibus lorem, sed fermentum ipsum massa pretium lorem. Nullam

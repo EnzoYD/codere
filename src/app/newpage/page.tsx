@@ -23,9 +23,7 @@ export default function Page() {
           vitae lorem vel nibh dapibus consectetur. Maecenas finibus vel justo
           vulputate accumsan. Nulla dapibus mi sed velit blandit posuere. Sed
           ullamcorper. Sed sit amet enim lectus. Praesent fermentum massa sed
-          mattis dapibus. Mauris ultricies, nibh vitae scelerisque suscipit, mi
-          nisi finibus lorem, sed fermentum ipsum massa pretium lorem. Nullam
-          elementum semper arcu, ac porttitor sapien aliquam vel. Duis vel mi
+          mattis dapibuis vel mi
           lectus. Vivamus quis eleifend tortor, at sollicitudin eros.
           Suspendisse mollis arcu et velit eleifend, porttitor hendrerit nunc
           pretium. Sed mollis velit nisi, in ultricies erat ultricies ut.
